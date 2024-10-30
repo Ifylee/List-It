@@ -39,7 +39,7 @@ On the client side, a cookie holds that session ID so that the user information 
 
 This application is deployed on render, under the link:
 
-https://list-it-kw5e.onrender.com/
+https://list-it-z3t7.onrender.com
 
 ## Dependencies
 
